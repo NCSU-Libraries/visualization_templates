@@ -1,0 +1,65 @@
+// TV wall is 3840x1518
+html {
+  margin: 0;
+  padding: 0;
+}
+body {
+  margin: 0;
+  padding: 0;
+  width: 3840px;
+  height: 1518px;
+  background-color: #ddd;
+  overflow: hidden;
+}
+
+.col {
+  height: 1518px;
+  overflow: hidden;
+  width: 202px;
+}
+
+#content2, #content4 {
+  width: 404px;
+}
+
+.content {
+  background-color: #cc0000; /*FIXME: change this color*/
+  position: absolute;
+  top: 0;
+}
+
+#content1 {
+  left: 0px;
+}
+
+#content2 {
+  left:611px;
+}
+#content3 {
+  left: 1207px;
+}
+#content4 {
+  left: 1818px;
+}
+#content5 {
+  left: 2416px;
+}
+#content6 {
+  left: 3026px;
+}
+#content7 {
+  left: 3636px;
+}
+
+.info {
+  position: absolute;
+  top: 760px;
+  background-color: #E5AD01; // Hunt Yellow
+  color: white;
+  padding: 30px;
+  width: 344px;
+  font-size: 3em;
+  font-family: Arial;
+  font-weight: bold;
+}
+
