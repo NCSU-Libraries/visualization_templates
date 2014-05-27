@@ -1,0 +1,15 @@
+body {
+  width: 6824px;
+  height: 2240px;
+}
+
+.column {
+  float:left;
+}
+
+.tile {
+  border: 2px solid red;
+  background-color: blue;
+  width: 422.5px;
+  height:316px;
+}
