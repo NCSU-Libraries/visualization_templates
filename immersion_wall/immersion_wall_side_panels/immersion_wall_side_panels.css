@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+  width: 6824px;
+  height: 2240px;
+  color: white;
+  overflow: hidden;
+  font-size: 60px;
+}
+
+.column {
+  float: left;
+  height: 100%;
+}
+
+#left-panel {  
+  width: 813px; /*2 tile columns wide*/
+  background-color: green;
+  font-size: 100px;
+  padding: 20px;
+}
+
+#content {
+  width: 4691.5px; /*11 tile columns wide*/
+  background-color: #cc0000;
+}
+
+#right-panel {
+  width: 1239.5px; /*3 tile columns wide*/
+  background-color: blue;
+  padding: 20px;
+}
