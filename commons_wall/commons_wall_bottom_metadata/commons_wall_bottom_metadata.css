@@ -1,0 +1,22 @@
+body {
+  width: 2884px;
+  height: 2400px;
+  margin: 0;
+  padding: 0;
+}
+
+#content {
+  background-color: #cc0000;
+  width: 100%;
+  height: 1920px;
+}
+
+#metadata {
+  background-color: blue;
+  width: 2784;
+  height: 380px;
+  text-align: center;
+  color: white;
+  font-size: 100px;
+  padding: 50px;
+}
