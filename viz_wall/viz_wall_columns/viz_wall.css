@@ -12,14 +12,16 @@ body {
   overflow: hidden;
 }
 
+/* All columns get these styles*/
 .col {
   height: 1518px;
   overflow: hidden;
-  width: 202px;
+  width: 204px;
 }
 
+/* These are double-wide columns. */
 #content2, #content4 {
-  width: 404px;
+  width: 408px;
 }
 
 .content {
@@ -33,31 +35,36 @@ body {
 }
 
 #content2 {
-  left:611px;
+  left:609px;
+  background-color: blue;
 }
 #content3 {
   left: 1207px;
+  background-color: orange;
 }
 #content4 {
-  left: 1818px;
+  left: 1817px;
+  background-color: purple;
 }
 #content5 {
-  left: 2416px;
+  left: 2415px;
+  background-color: green;
 }
 #content6 {
-  left: 3026px;
+  left: 3025px;
+  background-color: yellow;
 }
 #content7 {
-  left: 3636px;
+  left: 3635px;
 }
 
 .info {
   position: absolute;
   top: 760px;
-  background-color: #E5AD01; // Hunt Yellow
-  color: white;
+  background-color: #E5AD01;  /*Hunt Yellow*/
+  color: black;
   padding: 30px;
-  width: 344px;
+  width: 348px;
   font-size: 3em;
   font-family: Arial;
   font-weight: bold;
