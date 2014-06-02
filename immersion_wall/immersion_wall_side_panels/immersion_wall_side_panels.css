@@ -6,6 +6,7 @@ body {
   color: white;
   overflow: hidden;
   font-size: 60px;
+  font-family: sans-serif;
 }
 
 .column {
@@ -14,14 +15,14 @@ body {
 }
 
 #left-panel {  
-  width: 813px; /*2 tile columns wide*/
+  width: 812px; /*2 tile columns wide*/
   background-color: green;
   font-size: 100px;
   padding: 20px;
 }
 
 #content {
-  width: 4691.5px; /*11 tile columns wide*/
+  width: 4683.5px; /*11 tile columns wide*/
   background-color: #cc0000;
 }
 
