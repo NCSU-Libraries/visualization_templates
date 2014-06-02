@@ -3,20 +3,36 @@ body {
   height: 2400px;
   margin: 0;
   padding: 0;
+  overflow: hidden;
+  font-family: sans-serif;
+  background-image: url(http://placehold.it/2884x2400);
 }
 
 #content {
-  background-color: #cc0000;
+  /* Alternatively, put your image here and size it 1680x2400 */
   width: 100%;
-  height: 1920px;
+  height: 1680px;
 }
 
 #metadata {
-  background-color: blue;
+  background-color: #4A4A4A;
   width: 2784;
-  height: 380px;
-  text-align: center;
+  height: 720px;
+  text-align: left;
   color: white;
   font-size: 100px;
   padding: 50px;
+  opacity: .9;
+}
+
+#title {
+  font-size: 160px;
+}
+
+#attribution {
+
+}
+
+#description {
+  text-align: left;
 }
