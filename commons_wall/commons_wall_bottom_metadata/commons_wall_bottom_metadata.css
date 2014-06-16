@@ -1,11 +1,11 @@
 body {
-  width: 2884px;
+  width: 2880px;
   height: 2400px;
   margin: 0;
   padding: 0;
   overflow: hidden;
   font-family: sans-serif;
-  background-image: url(http://placehold.it/2884x2400);
+  background-image: url(http://placehold.it/2880x2400);
 }
 
 #content {
