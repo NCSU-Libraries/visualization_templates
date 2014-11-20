@@ -11,7 +11,7 @@ You'll need Ruby installed. We recommend using [RVM](http://rvm.io/) to install 
 ```shell
 gem install padrino
 
-padrino-gen project my_project_name --template https://github.ncsu.edu/ncsu-libraries/wall_websockets/raw/master/wall_websockets_template.rb
+padrino-gen project my_project_name --template https://raw.githubusercontent.com/NCSU-Libraries/hunt_wall_templates/master/wall_websockets/wall_websockets_template.rb
 ```
 
 A new project will get created for you. Along the way, you'll be asked some questions about optional components you can add to your project like a CSS framework and JavaScript library.
