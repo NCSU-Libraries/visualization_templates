@@ -1,10 +1,18 @@
-# Hunt Video Wall HTML Templates
+# Hunt Video Wall Templates
 
 There are four large video walls built into the public spaces around the Hunt Library. These displays make Hunt a storytelling building, integrating architecture and digital media to facilitate exciting new forms of communication. We curate a program of content for the video walls that is focused on demonstrating NC State's impact.
 
-These HTML templates are part of a Producer's Toolkit to help you design large-scale web content for these displays. See the NCSU Libraries [video walls webpage](http://www.lib.ncsu.edu/videowalls) for more information.
+These templates are part of a Producer's Toolkit to help you design large-scale web content for these displays. See the NCSU Libraries [video walls webpage](http://www.lib.ncsu.edu/videowalls) for more information.
 
 You are encouraged to contact us before you begin production work. All content submissions are subject to the editorial review of NCSU Libraries. Email group-videowalls@ncsu.edu with any questions. 
+
+## The Templates
+
+The templates are organized by wall. Once you identify the wall your project is destined for, you can navigate to that directory and select the kind of template you would like. Currently HTML/CSS templates are available. Photoshop templates are coming soon.
+
+The `wall_websockets` directory includes an application template that allows you to quickly get started creating an application to allow you to communicate between a remote control Web page and the Art Wall.
+
+TODO: Write more here.
 
 ## Web development tips
 
