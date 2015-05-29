@@ -27,7 +27,7 @@ If you use the “Creating Many Images” instructions, it is also assumed that 
 
 ####Commons Wall Example
 
-![An image created with the template for the Commons Wall.] (Commons_Wall_Template.jpg)
+![An image created with the template for the Commons Wall.](Commons_Wall_Template.jpg)
 
 An image created with the template for the Commons Wall.
 
