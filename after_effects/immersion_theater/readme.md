@@ -12,4 +12,4 @@ This template makes the following assumptions:
 
 1. The user (Windows or Mac) is using After Effects CC '14
 2. The user is familiar with the After Effects software
-3. The user has the official NC State "Univers" typeface installed
+3. The user has the official NC State "Univers" typeface installed (a freely available typeface that is somewhat similar to "Univers" can be found [here](http://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/))
