@@ -1,5 +1,5 @@
-# README Art Wall
+# Art Wall *Photoshop* Templates
 
-The Art Wall is particularly well suited to show digital artwork. It can also be used to welcome visitors to the building and advertise Libraries services. It is above our service point (the Ask Us) and near the Institute for Emerging Issues gallery and meeting spaces. It is across from the Technology Showcase. At night, it is visible from outside the building.
+**Overview:** The Art Wall is particularly well suited to show digital artwork. It can also be used to welcome visitors to the building and advertise Libraries services. It is above our service point (the Ask Us desk) and near the Institute for Emerging Issues gallery and meeting spaces. It is across from the Technology Showcase. At night, it is visible from outside the building.
 
-The Art Wall is 5760Wx2304H (an aspect ratio of 2.5). There are 15 tiles across and 8 tiles high. It is 20 feet wide and 8 feet tall.
+**Technical Details:** 5760W x 2304H pixels, 20 x 8 feet, 15 x 8 tiles, 120 total tiles, 2.5 (23:9) aspect ratio
