@@ -78,7 +78,7 @@ void HUD() {
     }
 
     if (_hudGrid) {
-          image(_hudGridImage[_wallType-1], 0, 0, wallWidth, wallHeight);
+        image(_hudGridImage[_wallType-1], 0, 0, wallWidth, wallHeight);
     }
     if (_hudRuler) {
         stroke(164);
@@ -151,84 +151,21 @@ void HUD() {
     textSize(inchToPix(2));
     text(round(frameRate) + " FPS", wallWidth - inchToPix(15), wallHeight - inchToPix(23));
     textAlign(LEFT, BASELINE);
-    
 }
 
-
-void title(String title, String auth){
-    int fadeTime = 5000;
-    double startTime, currentTime;
-    if(frameCount==1) {
-        startTime = millis();
-    }
-    currentTime = millis() - startTime;
-    float opacity = 255;    // opacity controls if the title will be displayed or not. Opacity controlled by time.
-    
-    if(currentTime >= fadeTime){
-        opacity -= 0.1 * (currentTime - fadeTime);
-    }
-    color bgcolor = color(204, 0, 0, opacity);
-    color textcolor = color(255, opacity);
-    textSize(inchToPix(4));
-    textAlign(LEFT, BASELINE);
-    textMode(SHAPE);                    // for better quality text - title is important!
-    if(opacity > 0){
-        switch(_wallType){
-            case 1:
-                fill(bgcolor);
-                noStroke();
-                rect(0, inchToPix(72), wallWidth, inchToPix(12));
-                fill(textcolor);
-                text(title, inchToPix(18), inchToPix(77.5));
-                textSize(inchToPix(3));
-                text(auth, inchToPix(18), inchToPix(81.5));
-                break;
-            case 2:
-                fill(bgcolor);
-                noStroke();
-                rect(0, inchToPix(60), wallWidth, inchToPix(12));
-                fill(textcolor);
-                text(title, inchToPix(18), inchToPix(65.5));
-                textSize(inchToPix(3));
-                text(auth, inchToPix(18), inchToPix(69.5));  
-                break;      
-            case 3:
-                fill(bgcolor);
-                noStroke();
-                rect(0, inchToPix(96), wallWidth, inchToPix(12));
-                fill(textcolor);
-                text(title, inchToPix(18), inchToPix(101.5));
-                textSize(inchToPix(3));
-                text(auth, inchToPix(18), inchToPix(105.5));
-                break;
-            case 4:
-                fill(bgcolor);
-                noStroke();
-                rect(inchToPix(48), inchToPix(0), inchToPix(33), wallHeight);
-                fill(textcolor);
-                textSize(inchToPix(4.5));
-                textLeading(inchToPix(5.4));
-                text(title, inchToPix(51), inchToPix(17.5), inchToPix(27), inchToPix(60));
-                textSize(inchToPix(3));
-                text(auth, inchToPix(51), inchToPix(38.5), inchToPix(27), inchToPix(60));
-                break;
-        }
-    }
-    textMode(MODEL);            // back to default for better performance
-    frame.setTitle("Running " + _wallNames[_wallType-1] + " emulation at " + str(width) + "px x " + str(height) + "px (scaling factor of " + _wallScale + ")                    " + frameRate + " FPS");
-}
-
-
-int inchToPix(float inch){
+int inchToPix(float inch) {
     int pixel = round(inch * wallWidth / (12 * _widthFt[_wallType-1]));
     return pixel;
 }
 
-float pixToInch(float pix){
+float pixToInch(float pix) {
     float inch = pix * (12 * _widthFt[_wallType-1]) / wallWidth;
     return inch;
 }
 
-
+void _debug(){
     
+    frame.setTitle("Running " + _wallNames[_wallType-1] + " emulation at " + str(width) + "px x " + str(height) + "px (scaling factor of " + _wallScale + ")                    " + frameRate + " FPS");
+}
+
 

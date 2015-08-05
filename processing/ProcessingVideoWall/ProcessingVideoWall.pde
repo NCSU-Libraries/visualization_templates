@@ -134,7 +134,12 @@ void draw() {
     
     // End code.
     
-    title("Processing Responsive Template", "Payod Panda");
+    title("Processing Responsive Template", "Payod Panda");              // this invokes the Title box every five minutes, and displays it for five seconds before fading out (default). See below for customization.
+    //title("Processing Responsive Template", "Payod Panda", 7);         // this invokes the Title box every five minutes, and displays it for seven seconds (last parameter) before fading out. 
+    //title("Processing Responsive Template", "Payod Panda", 15, 600);   // this invokes the Title box every ten minutes, and displays it for fifteen seconds before fading out (both times specified in seconds in the parameters)
+    
     HUD();                                // This should be the last line in the draw() function, don't add anything to draw() after this.
+                                          // This includes all built-in overlay functions to help you with the layout of elements in your sketch,
+                                          // like the tile grid and rulers / scale.
 }
 
