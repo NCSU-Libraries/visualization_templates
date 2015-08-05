@@ -1,5 +1,4 @@
-# Teaching and Visualization Lab *Photoshop* Templates
-
+# Teaching and Visualization Lab Image Guides
 **Overview:** The Teaching and Visualization Lab provides the largest format visual experience with a 270 degree viewing angle, excellent for delivering high-impact presentations or large-format visualizations.
 
 **Technical Details**

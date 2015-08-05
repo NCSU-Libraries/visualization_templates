@@ -1,4 +1,4 @@
-# Game Lab *Photoshop* Template
+# Game Lab Image Guide
 
 **Overview:** The Game Lab supports the scholarly study of digital games and is also a place to take a break and play for fun. It is equipped with multiple video gaming systems and a large Christie® MicroTile® display, which can be used as a single panorama or divided into multiple sections.
 
