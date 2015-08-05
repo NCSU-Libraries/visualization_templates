@@ -154,24 +154,24 @@ void HUD() {
     
 }
 
-int fadeTimeTemp, startTime;
-double currentTime;
 
 void title(String title, String auth){
-    int fadeTime = 5;
+    int fadeTime = 5000;
+    double startTime, currentTime;
     if(frameCount==1) {
-        fadeTimeTemp = fadeTime+(millis()/1000);
+        startTime = millis();
     }
-    float opacity = 255;
+    currentTime = millis() - startTime;
+    float opacity = 255;    // opacity controls if the title will be displayed or not. Opacity controlled by time.
     
-    if((millis()/1000) >= fadeTimeTemp){
-        opacity -= 100*((millis()/1000.0)-fadeTimeTemp);
+    if(currentTime >= fadeTime){
+        opacity -= 0.1 * (currentTime - fadeTime);
     }
     color bgcolor = color(204, 0, 0, opacity);
     color textcolor = color(255, opacity);
     textSize(inchToPix(4));
     textAlign(LEFT, BASELINE);
-    textMode(SHAPE);
+    textMode(SHAPE);                    // for better quality text - title is important!
     if(opacity > 0){
         switch(_wallType){
             case 1:
@@ -214,7 +214,7 @@ void title(String title, String auth){
                 break;
         }
     }
-    textMode(MODEL);
+    textMode(MODEL);            // back to default for better performance
     frame.setTitle("Running " + _wallNames[_wallType-1] + " emulation at " + str(width) + "px x " + str(height) + "px (scaling factor of " + _wallScale + ")                    " + frameRate + " FPS");
 }
 

@@ -1,5 +1,4 @@
 
-//            FONT SIZES
 /*
  **
  **  Processing template for NCSU Hunt Library Video Walls
@@ -102,6 +101,13 @@
  **  5. pixToInch(N);
  **  Conversely, this function converts pixel values to inches.
  **  This accepts integer numbers as argument.
+ **  
+ **  6. title("Sketch title", "Author Name");
+ **  This function is a basic title displayer - the name of the
+ **  sketch and the author name specified in the parameters will 
+ **  be shown on the screen for five seconds, every five minutes.
+ **  Feel free to change the look of the title, but try to keep 
+ **  it simple and in keeping with your sketch's look and feel.
  **
  **  If you run into any trouble or need any assistance, feel 
  **  free to contact Payod at payod.panda@ncsu.edu.
@@ -129,6 +135,6 @@ void draw() {
     // End code.
     
     title("Processing Responsive Template", "Payod Panda");
-    //HUD();                                // This should be the last line in the draw() function, don't add anything to draw() after this.
+    HUD();                                // This should be the last line in the draw() function, don't add anything to draw() after this.
 }
 
