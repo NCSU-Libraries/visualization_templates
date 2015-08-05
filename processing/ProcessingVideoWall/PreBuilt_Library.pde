@@ -147,8 +147,10 @@ void HUD() {
         text("(" + nf((_widthFt[_wallType-1]*mouseX/width), 2, 2) + ", "+ nf((_heightFt[_wallType-1]*mouseY/height), 2, 2) +") ft", inchToPix(2.75) + mouseX/_wallScale, mouseY/_wallScale + inchToPix(0.0) );
         text("("+(_width[_wallType-1]*mouseX/width)+", "+(_height[_wallType-1]*mouseY/height)+") px", inchToPix(2.75) + mouseX/_wallScale, mouseY/_wallScale + inchToPix(4.5));
     }
+    textAlign(LEFT, TOP);
+    textSize(inchToPix(2));
+    text(round(frameRate) + " FPS", wallWidth - inchToPix(15), wallHeight - inchToPix(23));
     textAlign(LEFT, BASELINE);
-    frame.setTitle("Running " + _wallNames[_wallType-1] + " emulation at " + str(width) + "px x " + str(height) + "px (scaling factor of " + _wallScale + ")                    " + frameRate + " FPS");
     
 }
 
@@ -169,6 +171,7 @@ void title(String title, String auth){
     color textcolor = color(255, opacity);
     textSize(inchToPix(4));
     textAlign(LEFT, BASELINE);
+    textMode(SHAPE);
     if(opacity > 0){
         switch(_wallType){
             case 1:
@@ -211,6 +214,8 @@ void title(String title, String auth){
                 break;
         }
     }
+    textMode(MODEL);
+    frame.setTitle("Running " + _wallNames[_wallType-1] + " emulation at " + str(width) + "px x " + str(height) + "px (scaling factor of " + _wallScale + ")                    " + frameRate + " FPS");
 }
 
 

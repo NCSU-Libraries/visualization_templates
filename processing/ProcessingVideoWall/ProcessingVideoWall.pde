@@ -129,6 +129,6 @@ void draw() {
     // End code.
     
     title("Processing Responsive Template", "Payod Panda");
-    HUD();                                // This should be the last line in the draw() function, don't add anything to draw() after this.
+    //HUD();                                // This should be the last line in the draw() function, don't add anything to draw() after this.
 }
 
