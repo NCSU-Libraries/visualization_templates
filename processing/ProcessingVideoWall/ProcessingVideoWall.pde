@@ -108,6 +108,12 @@
  **  be shown on the screen for five seconds, every five minutes.
  **  Feel free to change the look of the title, but try to keep 
  **  it simple and in keeping with your sketch's look and feel.
+ **  You also have to option of specifying the fade-out time for 
+ **  the title box, and the time interval between the title box
+ **  pop-ups. As mentioned above the default is 5 second fade-out
+ **  and a 5 minutes interval, but this can be changed by specifying
+ **  these as parameters when calling the function. Scroll to the
+ **  last lines of the draw() function to see examples.
  **
  **  If you run into any trouble or need any assistance, feel 
  **  free to contact Payod at payod.panda@ncsu.edu.
