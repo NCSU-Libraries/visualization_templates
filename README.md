@@ -15,7 +15,7 @@ The `web/wall_websockets` directory includes an application template that allows
 Use the following table to quickly determine whether a template is available for the desired platform and wall or space.
 
 | Platform | Art Wall | Commons Wall | Immersion Theater | Visualization Wall | Creativity Studio | Teaching and Visualization Lab | Game Lab |
-|:------------------- | :-----------------|
+|:------------------- | :-----------------|:------------------- | :-----------------|:------------------- | :-----------------|:------------------- | :-----------------|
 |[Image templates](https://github.com/NCSU-Libraries/visualization_templates/tree/master/_image_templates)    |X|X|X|X|X|X|X|
 |[After Effects (video)](https://github.com/NCSU-Libraries/visualization_templates/tree/master/after_effects) |||X|||X||
 |[Photoshop](https://github.com/NCSU-Libraries/visualization_templates/tree/master/photoshop) |X|X|X|X||||
