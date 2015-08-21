@@ -13,6 +13,7 @@ The templates are organized by the platform with which you are producing your wo
 The `web/wall_websockets` directory includes an application template that allows you to quickly get started creating an application to allow you to communicate between a remote control Web page and the Art Wall.
 
 Use the following tables to quickly determine whether a template is available for the desired platform and wall or space.
+
 ###Video Walls
 
 |  | Art Wall | Commons Wall | iPearl Immersion Theater | Visualization Wall | 
