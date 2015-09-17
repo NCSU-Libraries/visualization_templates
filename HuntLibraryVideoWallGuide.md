@@ -66,7 +66,7 @@ The Visualization Wall features the most unique shape of any of the video walls 
 #FAQ
 
 #####**What kinds of media types can I put on the walls?**
-We can display image, video, and web assets. We cannot currently launch executable desktop applications or other kinds of content.
+We can display image, video, and web assets. We can also run applications made in Processing, but other executable file types or other media content are not supported yet.
 
 #####**What file types are supported?**
 Video: .mov, .m4v, .mp4
