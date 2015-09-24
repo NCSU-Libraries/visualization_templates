@@ -9,7 +9,7 @@
 	* Southwest Corner: 1920W x 1200H pixels, 1 HD projector
 	* West Wall: 4608W x 1062H pixels, 3 blended HD projectors
 	* Northwest Corner: 1920W x 1200H pixels, 1 HD projector
-	* South Wall: 3328W x 1200H pixels, 2 blended HD projectors
+	* North Wall: 3328W x 1200H pixels, 2 blended HD projectors
 
 **Template Overview**
 
