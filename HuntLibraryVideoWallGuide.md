@@ -115,7 +115,9 @@ Design content that has stopping power and is quickly interpretable.
 ####**Video production guidelines**
 The most important consideration begins with footage capture: shoot at 1920 x 1080 or better, with good color compression (4:2:2 or better), on cameras with good optics and large sensors. 
 
-In some cases, you may choose to edit your footage at the full resolution specified in this guide. However, in most cases, you may need to compromise to spare your processors by editing your video on a canvas size that is half of full wall resolution (e.g. 3408 x 1120 for Immersion). Just ensure your canvas is at the same aspect ratio as the ones specified in this guide. Export h.264 encoded .mov files with no letterboxing at 18 Mbps. 
+In some cases, you may choose to edit your footage at the full resolution specified in this guide. However, in most cases, you may need to compromise to spare your processors by editing your video on a canvas size that is half of full wall resolution (e.g. 3408 x 1120 for Immersion). Just ensure your canvas is at the same aspect ratio as the ones specified in this guide. Export h.264 encoded .mov files with no letterboxing at 18 Mbps.
+
+Include 4 seconds of black pre- and post-roll on all videos. It takes a few seconds for the walls to display media once it starts playing. 
 
 ####**Web development guidelines**
 While web delivery is an attractive option for some content, inferring how the layout will be affected on a large display is not straightforward for the layperson. Since you probably don’t have a desktop with enough pixels to simulate our video walls, it is especially important to test your prototypes at Hunt with Libraries staff. 
