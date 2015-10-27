@@ -110,26 +110,13 @@ Think big visuals and minimal text. The video walls are visual feasts, not readi
 Visitors to the library are there to get things done, so audience attention spans can be short.
 Design content that has stopping power and is quickly interpretable.
 
-#Web and Video
+#Video production guidelines
 
-####**Video production guidelines**
 The most important consideration begins with footage capture: shoot at 1920 x 1080 or better, with good color compression (4:2:2 or better), on cameras with good optics and large sensors. 
 
 In some cases, you may choose to edit your footage at the full resolution specified in this guide. However, in most cases, you may need to compromise to spare your processors by editing your video on a canvas size that is half of full wall resolution (e.g. 3408 x 1120 for Immersion). Just ensure your canvas is at the same aspect ratio as the ones specified in this guide. Export h.264 encoded .mov files with no letterboxing at 18 Mbps.
 
 Include 4 seconds of black pre- and post-roll on all videos. It takes a few seconds for the walls to display media once it starts playing. 
-
-####**Web development guidelines**
-While web delivery is an attractive option for some content, inferring how the layout will be affected on a large display is not straightforward for the layperson. Since you probably don’t have a desktop with enough pixels to simulate our video walls, it is especially important to test your prototypes at Hunt with Libraries staff. 
-
-When programming for different size canvases it is import to represent pixels and pixel calculations as a % of the canvas and not fixed pixels. For example, a 50 pixel circle looks fine on a 1920 x 1080 display but when displayed on the walls it may look like a dust particle. Representing the circle at .026 x canvas width would give you a 50 pixel circle on the 1920 canvas and 156 pixel circle on a 6000 x 1200 canvas. Some other pointers: 
-
-* Web pages are displayed on the video walls using the latest stable version of Chrome.
-* Build a dedicated template or CSS for displaying on “large-devices.” Your HTML will probably need to be structured differently, with the CSS sizing things differently for large displays.
-* Use responsive HTML practices.
-* Use relative sizes. Percentages and relative positioning are better than absolute and fixed positioning to have responsive design.
-* Validate your HTML using the W3C Validator Service. Valid HTML will behave more predictably.
-* Test test test.
 
 Questions about anything?
 Email group-videowalls@ncsu.edu
