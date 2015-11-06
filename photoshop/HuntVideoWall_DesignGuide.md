@@ -13,8 +13,8 @@ These instructions are written for Adobe Photoshop CS6, but should be adequate t
 - [Import images] (#import-images)
 - [Organize and crop] (#organize-and-crop)
 - [Annotate] (#annotate)
-- [Export project] (#export-project)
-- [Upload file to NCSU Libraries] (#upload-file-to-NCSU-Libraries)
+- [Export project] (#export-your-project)
+- [Upload file to NCSU Libraries] (#upload-file-to-ncsu-libraries)
 
 ##### Download and Open the Template
 1. We offer several templates for the video walls. Go to http://lib.ncsu.edu/videowalls for more information.
