@@ -15,6 +15,7 @@ Digital Media Librarian
 Editor in chief, video wall content program
 
 #Art Wall
+<br/>![Art Wall above the Ask Us desk](https://cloud.githubusercontent.com/assets/8071730/10988887/a169529c-840e-11e5-8f97-fb61c3a07a42.jpg)<br/><br/>
 The Art Wall is particularly well suited to show digital artwork designed for the space. It can also be used to welcome visitors to the building, highlight the latest news and events, and advertise Libraries services. It is above our service point (the Ask Us) and near the Institute for Emerging Issues gallery and meeting spaces. It is across from the Technology Showcase. At night, it is visible from outside the building. 
 
 
@@ -28,6 +29,7 @@ The Art Wall is particularly well suited to show digital artwork designed for th
 | Sound        |                                            None |
 
 #iPearl Immersion Theater
+<br/>![iPearl Immersion Theater seen from the Tech Showcase](https://cloud.githubusercontent.com/assets/8071730/10988889/a174f804-840e-11e5-8bfa-f15a36725df3.jpg)<br/><br/>
 Prominently located to catch the eye of everyone entering the library, the Immersion Theater is Hunt’s premiere digital exhibit space. The right side of the video wall inside the Theater has a gentle curve, which gives content an immersive quality. Visitors can walk up closely to examine details or have a seat to let the experience soak in. Audio capabilities make this the ideal video wall for communicating with voiceovers and soundtracks. 
 
 | Property     |                                           Value |
@@ -40,6 +42,7 @@ Prominently located to catch the eye of everyone entering the library, the Immer
 | Sound        |                                            Stereo with subwoofer |
 
 #Commons Wall
+<br/>![Commons Wall seen from the staircase](https://cloud.githubusercontent.com/assets/8071730/10988888/a1742f14-840e-11e5-89cb-27ffa1ad0960.jpg)<br/><br/>
 Visible from both learning commons areas on the third and fourth floors, the Commons Wall is at the center of the library’s academic activity. The Roman stairs opposite the Commons Wall can accommodate a large number of simultaneous viewers. 
 
 | Property     |                                           Value |
@@ -52,6 +55,7 @@ Visible from both learning commons areas on the third and fourth floors, the Com
 | Sound        |                                            Only for special events to limit disruption to Commons studying |
 
 #Visualization Wall
+<br/>![Visualization Wall seen from the study space](https://cloud.githubusercontent.com/assets/8071730/10988917/ef18167c-840e-11e5-8f26-6af0c46bba7d.jpg)<br/><br/>
 The Visualization Wall features the most unique shape of any of the video walls in the Hunt Library. Located outside of the Teaching and Visualization Lab and near our Makerspace, its columnar arrangement presents a canvas that will appeal to the adventurous designer. The best content for this wall takes advantage of the noncontiguous arrangement to produce interesting user experiences. Content can be designed on a single rectangular canvas—the wall will automatically create a “picket fence” effect. For creators wishing to design for the columnar shape, a Photoshop template of the layout is available in the Producer’s Toolkit at www.lib.ncsu.edu/videowalls.
 
 | Property     |                                           Value |
