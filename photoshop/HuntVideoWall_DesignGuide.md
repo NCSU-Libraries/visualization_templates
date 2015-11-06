@@ -9,7 +9,7 @@ This guide is designed to be used in conjunction with the Hunt Library Video Wal
 These instructions are written for Adobe Photoshop CS6, but should be adequate to walk you through the process of other versions of Photoshop. This walk-through assumes basic familiarity with Photoshop. If you haven’t used Photoshop before, we recommend that you start with the video tutorials from Lynda.com. You can access these tutorials at either Hunt or Hill libraries: http://www.lib.ncsu.edu/cdm/lynda 
 
 #### Main Steps
-- Download and open the template
+- [Download and open the template] (#download-and-open-the-template)
 - Import images
 - Organize and crop
 - Annotate
