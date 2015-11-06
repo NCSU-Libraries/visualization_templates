@@ -9,12 +9,12 @@ This guide is designed to be used in conjunction with the Hunt Library Video Wal
 These instructions are written for Adobe Photoshop CS6, but should be adequate to walk you through the process of other versions of Photoshop. This walk-through assumes basic familiarity with Photoshop. If you haven’t used Photoshop before, we recommend that you start with the video tutorials from Lynda.com. You can access these tutorials at either Hunt or Hill libraries: http://www.lib.ncsu.edu/cdm/lynda 
 
 #### Main Steps
-1. Download and open the template
-2. Import images
-3. Organize and crop
-4. Annotate
-5. Export project
-6. Upload file to NCSU Libraries
+- Download and open the template
+- Import images
+- Organize and crop
+- Annotate
+- Export project
+- Upload file to NCSU Libraries
 
 #### Download and Open the Template
 1. We offer several templates for the video walls. Go to http://lib.ncsu.edu/videowalls for more information.
