@@ -56,7 +56,7 @@ Visible from both learning commons areas on the third and fourth floors, the Com
 
 #Visualization Wall
 <br/>![Visualization Wall seen from the study space](https://cloud.githubusercontent.com/assets/8071730/10988917/ef18167c-840e-11e5-8f26-6af0c46bba7d.jpg)<br/><br/>
-The Visualization Wall features the most unique shape of any of the video walls in the Hunt Library. Located outside of the Teaching and Visualization Lab and near our Makerspace, its columnar arrangement presents a canvas that will appeal to the adventurous designer. The best content for this wall takes advantage of the noncontiguous arrangement to produce interesting user experiences. Content can be designed on a single rectangular canvas—the wall will automatically create a “picket fence” effect. For creators wishing to design for the columnar shape, a Photoshop template of the layout is available in the Producer’s Toolkit at www.lib.ncsu.edu/videowalls.
+The Visualization Wall features the most unique shape of any of the video walls in the Hunt Library. Located outside of the Teaching and Visualization Lab and near our Makerspace, its columnar arrangement presents a canvas that will appeal to the adventurous designer. The best content for this wall takes advantage of the noncontiguous arrangement to produce interesting user experiences. Content can be designed on a single rectangular canvas—the wall will automatically create a “picket fence” effect. For creators wishing to design for the columnar shape, a Photoshop template of the layout is available at https://github.com/NCSU-Libraries/visualization_templates/tree/master/photoshop.
 
 | Property     |                                           Value |
 | :----------- | ----------------------------------------------: |
