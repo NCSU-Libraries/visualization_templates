@@ -120,7 +120,9 @@ The most important consideration begins with footage capture: shoot at 1920 x 10
 
 In some cases, you may choose to edit your footage at the full resolution specified in this guide. However, in most cases, you may need to compromise to spare your processors by editing your video on a canvas size that is half of full wall resolution (e.g. 3408 x 1120 for Immersion). Just ensure your canvas is at the same aspect ratio as the ones specified in this guide. Export h.264 encoded .mov files with no letterboxing at 18 Mbps.
 
-Include 4 seconds of black pre- and post-roll on all videos. It takes a few seconds for the walls to display media once it starts playing. 
+Include 4 seconds of black pre- and post-roll on all videos. It takes a few seconds for the walls to display media once it starts playing.
+
+Compress your audio so that there are no volume spikes. Then normalize the audio to -.1db.
 
 Questions about anything?
 Email group-videowalls@ncsu.edu
