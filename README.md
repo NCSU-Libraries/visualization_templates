@@ -1,4 +1,4 @@
-# Hunt Visualization Space Templates
+# Visualization Space Templates
 
 There are four large video walls built into the public spaces around the Hunt Library, and three high-tech visualization labs and rooms. These displays make Hunt a storytelling building, integrating architecture and digital media to facilitate exciting new forms of scholarly communication.
 
