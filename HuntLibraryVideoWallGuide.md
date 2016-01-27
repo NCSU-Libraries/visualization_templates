@@ -6,7 +6,7 @@ If we did not tell you that up front—it would be dishonest. To make video wall
 
 Our four video walls make Hunt a storytelling building, integrating architecture and digital media to facilitate exciting new forms of communication. This guide has been provided to answer initial questions and to enable or enhance your ability to produce effective large-scale content. It includes basic specifications, formats and other variables that merit consideration in the production of content. Each array of Christie MicroTiles has unique characteristics and the guide is organized by wall. Use this guide in conjunction with the templates and other resources in the Producer’s Toolkit at lib.ncsu.edu/videowalls. 
 
-**You are encouraged to contact us before you begin production work. All content submissions are subject to the editorial review of NCSU Libraries. Email group-videowalls@ncsu.edu.**
+**You are encouraged to contact us before you begin production work. All content submissions are subject to the editorial review of NCSU Libraries. Email library_visualization@ncsu.edu.**
 
 Finally, once you’re ready to submit your content to us, go to the upload form at lib.ncsu.edu/videowalls. Happy making! 
 
