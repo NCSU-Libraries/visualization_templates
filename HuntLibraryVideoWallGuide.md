@@ -10,9 +10,9 @@ Our four video walls make Hunt a storytelling building, integrating architecture
 
 Finally, once you’re ready to submit your content to us, go to the upload form at lib.ncsu.edu/videowalls. Happy making! 
 
-Mike Nutt
-Digital Media Librarian
-Editor in chief, video wall content program
+Mike Nutt  
+Director of Visualization Services  
+NCSU Libraries
 
 #Art Wall
 <br/>![Art Wall above the Ask Us desk](https://cloud.githubusercontent.com/assets/8071730/10988887/a169529c-840e-11e5-8f97-fb61c3a07a42.jpg)<br/><br/>
