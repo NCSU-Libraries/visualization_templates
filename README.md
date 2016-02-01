@@ -6,6 +6,8 @@ These templates will help you design large-scale web content for these displays.
 
 You are encouraged to contact us before you begin production work. All content submissions are subject to the editorial review of NCSU Libraries. Email group-videowalls@ncsu.edu with any questions. 
 
+Except where otherwise noted, these templates are licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/) by North Carolina State University. You will retain full ownership of the work that you produce using these templates and do not need to include attribution on work being presented in the Hill and Hunt libraries. If you are sharing the templates, please link to http://www.lib.ncsu.edu/visualization-space-templates. 
+
 ## The Templates
 
 The templates are organized by the platform with which you are producing your work, e.g., Photoshop, web, etc. Once you know your platform, you can find templates for individual walls and spaces within that folder.
