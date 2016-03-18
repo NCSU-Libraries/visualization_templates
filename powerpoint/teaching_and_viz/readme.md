@@ -28,8 +28,7 @@
 9.	**All previously stated rules about image resolution will apply no matter how you decide to size your image. If the resolution of the image is smaller than the resolution of the space your image occupies, it will appear grainy.**
 	10. Slide transitions behave unpredictably and should not be used in presentations for this space. Slide animations, however, are appropriate.
 
-**TandV-black-boxes.pptx** (black with blue lines)
-
+**TandV-black-boxes.pptx** (black with blue lines) or
 **TandV-white-boxes.pptx** (white rectangles)
 
 1.	The purpose of this template is to create a presentation that uses the entire real estate of the Teaching and Visualization lab all at once.
