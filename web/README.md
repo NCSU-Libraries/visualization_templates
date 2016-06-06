@@ -4,7 +4,7 @@ While web delivery is an attractive option for some video wall content, inferrin
 
 When programming for different size canvases it is important to represent pixels and pixel calculations as a percentage of the canvas and not fixed pixels. For example, a 50 pixel circle looks fine on a 1920 x 1080 display but when displayed on the walls it may look like a dust particle. Representing the circle at .026 x canvas width would give you a 50 pixel circle on the 1920 canvas and 156 pixel circle on a 6000 x 1200 canvas.
 
-Chrome's Device Mode & Mobile Emulation can also be useful for designing web pages for the visualization spaces, so you can change the resolution dimensions to the size of the video wall for which you are designing. See the [steps below](./README#How to add a custom device to Chrome developer tools for emulation) or Google's documentation for this feature at https://developers.google.com/web/tools/chrome-devtools/iterate/device-mode/emulate-mobile-viewports
+Chrome's Device Mode & Mobile Emulation can also be useful for designing web pages for the visualization spaces, so you can change the resolution dimensions to the size of the video wall for which you are designing. See the steps below or Google's documentation for this feature at https://developers.google.com/web/tools/chrome-devtools/iterate/device-mode/emulate-mobile-viewports
 
 ### Other tips
 * Web pages are displayed on the video walls using the latest stable version of Chrome.
@@ -36,8 +36,7 @@ In the Chrome browser you can emulate any of the video walls by creating a custo
 
 6. The new device is now available in the devices dropdown menu in the browser window (the same dropdown menu from step 3). Select the device from the menu to emulate it in your browser.
 
-Hunt video wall pixel size
----
+### Hunt video wall pixel size
 
 | Wall Name          | Width (px) | Height (px) |
 |---                 |:---:       |:---:        |
