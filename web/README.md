@@ -30,7 +30,7 @@ In the Chrome browser you can emulate any of the video walls by creating a custo
 
 4. The 'Emulated Devices' settings window will appear. In this window click the button `Add custom device...`
 
-5. In the dialogue that appears input a name for your device, input the screen width and height, and select the type of device from the dropdown menu (if designing for the Hunt video walls select 'Desktop'). Click the `Add` button to add the device to the emulation list. **See the table of video wall names and dimensions at the bottom of this document for reference if adding a wall for emulation.**
+5. In the dialogue menu that appears input a name for your device, input the screen width and height, and select the type of device from the dropdown menu (if designing for the Hunt video walls select 'Desktop'). Click the `Add` button to add the device to the emulation list. **See the table of video wall names and dimensions at the bottom of this document for reference if adding a wall for emulation.**
 
   ![Device dropdown](./addCustomDevice.png)
 
