@@ -13,7 +13,7 @@ Director of Visualization Services
 NCSU Libraries
 
 #Art Wall
-<br/>![Art Wall above the Ask Us desk](https://cloud.githubusercontent.com/assets/8071730/10988887/a169529c-840e-11e5-8f97-fb61c3a07a42.jpg)<br/><br/>
+<br/>![Art Wall above the Ask Us desk](visualization_templates/ArtWall_Rings_smaller.jpeg)<br/><br/>
 The Art Wall is particularly well suited to show digital artwork designed for the space. It can also be used to welcome visitors to the building, highlight the latest news and events, and advertise Libraries services. It is above our service point (the Ask Us) and near the Institute for Emerging Issues gallery and meeting spaces. It is across from the Technology Showcase. At night, it is visible from outside the building. 
 
 
