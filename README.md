@@ -29,8 +29,9 @@ Use the following tables to quickly determine whether a template is available fo
 
 ### High-Tech Visualization Spaces
 
-|   | Creativity Studio | Teaching and Visualization Lab | Game Lab |
-|:------------------- | :-----------------|:------------------- | :-----------------|
-|[Image Templates](https://github.com/NCSU-Libraries/visualization_templates/tree/master/_image_templates)    |X|X|X|
-|[After Effects](https://github.com/NCSU-Libraries/visualization_templates/tree/master/after_effects) ||X||
-|[PowerPoint](https://github.com/NCSU-Libraries/visualization_templates/tree/master/powerpoint) |X|X|X|
+|   | Creativity Studio | Teaching and Visualization Lab | Game Lab | Visualization Studio (D. H. Hill) |
+|:------------------- | :-----------------|:------------------- | :-----------------| :-----------------|
+|[Image Templates](https://github.com/NCSU-Libraries/visualization_templates/tree/master/_image_templates)    |X|X|X||
+|[After Effects](https://github.com/NCSU-Libraries/visualization_templates/tree/master/after_effects) ||X|||
+|[PowerPoint](https://github.com/NCSU-Libraries/visualization_templates/tree/master/powerpoint) |X|X|X||
+|[Web](https://github.com/NCSU-Libraries/visualization_templates/tree/master/web/visualization_studio) ||||X|
