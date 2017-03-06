@@ -2,7 +2,7 @@
 
 ## Teaching & Visualization Lab
 * Dell Precision Tower 7910
-* 2x Intel Xeon CPU E5-2680 @ 2.4 GHz (3.3GHz Turbo)
+* 2x Intel Xeon CPU E5-2680 v4 @ 2.4 GHz (3.3GHz Turbo)
 * 128 Gb RAM
 * Windows 10 Pro 64
 * 512 GB SSD HD (sys)
@@ -43,8 +43,8 @@
 
 ## Art Wall
 * Dell Precision Rack 7910 
-* 2x  Intel Xeon CPU E5-2623 v3 @ 3.0 GHz
+* 2x  Intel Xeon CPU E5-2623 v3 @ 3.0 GHz Turbo
 * 128 Gb RAM
 * Windows 10 Pro 64
 * 2 x 512 GB SSD HD
-* AMD FirePro W9100 video card
+* AMD FirePro W9100 16GB video card
