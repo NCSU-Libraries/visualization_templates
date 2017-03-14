@@ -1,6 +1,6 @@
 # wall_websockets_template.rb
 
-project gem: true, bundle: true, script: 'jquery', renderer: :erb, stylesheet: :scss
+project gem: false, bundle: true, script: 'jquery', renderer: :erb, stylesheet: :scss
 
 generate :controller, "wall get:index"
 generate :controller, "control get:index"
@@ -222,4 +222,3 @@ D3_JS_CHANGE = <<-D3_JS_CHANGE
 D3_JS_CHANGE
   inject_into_file destination_root('public/javascripts/wall.js'), D3_JS_CHANGE, after: "function(message) {\n"
 end
-
