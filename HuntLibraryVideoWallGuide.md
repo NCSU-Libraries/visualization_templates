@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 
 Our four video walls make Hunt a storytelling building, integrating architecture and digital media to facilitate exciting new forms of communication. This guide has been provided to answer initial questions and to enable or enhance your ability to produce effective large-scale content. It includes basic specifications, formats and other variables that merit consideration in the production of content. Each array of Christie MicroTiles has unique characteristics and the guide is organized by wall. Use this guide in conjunction with the templates and other resources in the Producer’s Toolkit at [lib.ncsu.edu/videowalls](http://www.lib.ncsu.edu/videowalls). 
 
@@ -12,7 +12,7 @@ Mike Nutt
 Director of Visualization Services  
 NCSU Libraries
 
-#Art Wall
+# Art Wall
 <br/>![Art Wall above the Ask Us desk](https://raw.githubusercontent.com/NCSU-Libraries/visualization_templates/master/ArtWall_Rings_smaller.jpeg)<br/><br/>
 The Art Wall is particularly well suited to show digital artwork designed for the space. It can also be used to welcome visitors to the building, highlight the latest news and events, and advertise Libraries services. It is above our service point (the Ask Us) and near the Institute for Emerging Issues gallery and meeting spaces. It is across from the Technology Showcase. At night, it is visible from outside the building. 
 
@@ -52,7 +52,7 @@ Visible from both learning commons areas on the third and fourth floors, the Com
 | Dwell time   |  Highly variable; 20 seconds to walk down staircase or hours for sitters |
 | Sound        |                                            Only for special events to limit disruption to Commons studying |
 
-#Visualization Wall
+# Visualization Wall
 <br/>![Visualization Wall seen from the study space](https://cloud.githubusercontent.com/assets/8071730/10988917/ef18167c-840e-11e5-8f26-6af0c46bba7d.jpg)<br/><br/>
 The Visualization Wall features the most unique shape of any of the video walls in the Hunt Library. Located outside of the Teaching and Visualization Lab and near our Makerspace, its columnar arrangement presents a canvas that will appeal to the adventurous designer. The best content for this wall takes advantage of the noncontiguous arrangement to produce interesting user experiences. Content can be designed on a single rectangular canvas—the wall will automatically create a “picket fence” effect. For creators wishing to design for the columnar shape, a Photoshop template of the layout is available at https://github.com/NCSU-Libraries/visualization_templates/tree/master/photoshop.
 
@@ -65,54 +65,54 @@ The Visualization Wall features the most unique shape of any of the video walls 
 | Dwell time   | Highly variable. 30 seconds as people walk by or hours for campers. |
 | Sound        |                                            None |
 
-#FAQ
+# FAQ
 
-#####**What kinds of media types can I put on the walls?**
+##### **What kinds of media types can I put on the walls?**
 We can display image, video, and web assets. We can also run applications made in Processing, but other executable file types or other media content are not supported yet.
 
-#####**What file types are supported?**
+##### **What file types are supported?**
 Video: .mov, .m4v, .mp4
 Image: .jpg, .png
 
 You can also deploy applications made in Processing on the video walls.
 
-#####**Are the video walls touch enabled?**
+##### **Are the video walls touch enabled?**
 The MicroTiles array in the Game Lab on the third floor supports up to 40 simultaneous touch points, but the public video walls in this guide are not touch-enabled.
 
-#####**Can I run content for my group’s event at Hunt?**
+##### **Can I run content for my group’s event at Hunt?**
 Yes and no. We curate our content program to inspire all Hunt visitors, not just the people who come for specific events. If you can create visually striking content about your organization that communicates the story of its impact, that’s something that all our visitors could benefit from. Generally, we’re looking for contributions to our permanent content portfolio that can wow our visitors day after day. 
 
-#####**Can you create content for me?**
+##### **Can you create content for me?**
 No. The Libraries does not have support staff dedicated to content production for the walls. However, we can offer advice on how to use our templates and we can point you to resources to learn digital media production. If you are interested in collaborating on sponsored research, please email group-videowalls@ncsu.edu.
 
-#####**What are these MicroTiles you speak of?**
+##### **What are these MicroTiles you speak of?**
 MicroTiles are produced by Christie, and are a modular display technology. You can learn more about creating content for MicroTiles with Christie’s very useful Content Production Guidelines found in the Producer’s Toolkit at lib.ncsu.edu/videowalls.
 
-#####**Who visits the Hunt Library?**
+##### **Who visits the Hunt Library?**
 Engineering and Textiles students frequent Hunt (and, to a lesser degree, faculty). At night, students from main campus come to study there. The Library also houses Governor Hunt’s Institute for Emerging Issues (IEI). Their meeting spaces attract academic, corporate, and nonprofit organizations that host conferences, symposia, and lectures. Visitors to IEI and the Hunt Library tend to be highly engaged, thoughtful, and curious about the next big thing. 
 
-#Best Practices
+# Best Practices
 
-#####**Get pre-approval of your idea**
+##### **Get pre-approval of your idea**
 The video wall content program is selective: while we welcome participation from the entire campus, we need to ensure that the quality of content is high. It is preferable to schedule a meeting with us at Hunt before you begin work. Contact group-videowalls@ncsu.edu.
 
-#####**Plan time for multiple drafts**
+##### **Plan time for multiple drafts**
 We want your content to create memorable visitor experiences: if it can be improved, we will suggest revisions to your work. Please allow time to schedule at least one meeting with library taff to test your first draft (e.g., to do a basic visibility/readability test for the typeface you use).
 
-#####**Embrace the grid**
+##### **Embrace the grid**
 Design with those tiny gridlines in mind. Try to contain visual elements within one tile or a cluster of tiles. Bury the seams into larger vertical and horizontal elements. Avoid having text fall into the lines.
 
-#####**Be colorful**
+##### **Be colorful**
 Work with the most saturated colors—reds, greens, and blues—to get the most compelling results. Avoid large, solid fields of pale colors, especially white. 
 
-#####**Limit text**
+##### **Limit text**
 Think big visuals and minimal text. The video walls are visual feasts, not reading platforms. Keep written content short: it should take no longer than 10 seconds to read all the text on a graphic. Ensure the text is easily read at the distance where the audience will be.
 
-#####**Design for short dwell times**
+##### **Design for short dwell times**
 Visitors to the library are there to get things done, so audience attention spans can be short.
 Design content that has stopping power and is quickly interpretable.
 
-#Video production guidelines
+# Video production guidelines
 
 The most important consideration begins with footage capture: shoot at 1920 x 1080 or better, with good color compression (4:2:2 or better), on cameras with good optics and large sensors. 
 
