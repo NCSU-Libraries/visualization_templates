@@ -26,7 +26,7 @@ The Art Wall is particularly well suited to show digital artwork designed for th
 | Dwell time   |  Short; high-traffic area, not a lingering zone |
 | Sound        |                                            None |
 
-#iPearl Immersion Theater
+# iPearl Immersion Theater
 <br/>![iPearl Immersion Theater seen from the Tech Showcase](https://cloud.githubusercontent.com/assets/8071730/10988889/a174f804-840e-11e5-8bfa-f15a36725df3.jpg)<br/><br/>
 Prominently located to catch the eye of everyone entering the library, the Immersion Theater is Hunt’s premiere digital exhibit space. The right side of the video wall inside the Theater has a gentle curve, which gives content an immersive quality. Visitors can walk up closely to examine details or have a seat to let the experience soak in. Audio capabilities make this the ideal video wall for communicating with voiceovers and soundtracks. 
 
@@ -39,7 +39,7 @@ Prominently located to catch the eye of everyone entering the library, the Immer
 | Dwell time   |  Variable; seating in Theater encourages longer dwell times |
 | Sound        |                                            Stereo with subwoofer |
 
-#Commons Wall
+# Commons Wall
 <br/>![Commons Wall seen from the staircase](https://cloud.githubusercontent.com/assets/8071730/10988888/a1742f14-840e-11e5-89cb-27ffa1ad0960.jpg)<br/><br/>
 Visible from both learning commons areas on the third and fourth floors, the Commons Wall is at the center of the library’s academic activity. The Roman stairs opposite the Commons Wall can accommodate a large number of simultaneous viewers. 
 
