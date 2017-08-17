@@ -7,7 +7,7 @@
 * Windows 10 Pro 64
 * 512 GB SSD HD (sys)
 * 2 x 512 GB SSD HD
-* 3x Nvidia K5000 video cards
+* 3x Nvidia M4000 video cards
 
 ## Visualization Wall
 * Dell Precision T7600 
