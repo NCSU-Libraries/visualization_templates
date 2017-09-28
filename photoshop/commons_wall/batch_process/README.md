@@ -55,7 +55,7 @@ An image created with the template for the Commons Wall.
 
    * Make sure the Layers panel is open. The “TEXT” and “IMAGES” folders are where you will insert your own caption text and your image. Make the “IMAGES” folder visible.
 
-   * Within the “IMAGES” folder, there are two folders: “4:3” and “3:2”. You will only need to use one for your project. Select which to use and make visible by looking at the table below..
+   * Within the “IMAGES” folder, there are two folders: “4:3” and “3:2”. You will only need to use one for your project. Select which to use and make visible by looking at the table below.
 
 
 | Folder Name | Image and Text Placement | Best Uses |
