@@ -93,6 +93,9 @@ Engineering and Textiles students frequent Hunt (and, to a lesser degree, facult
 
 # Best Practices
 
+##### **Be inclusive**
+We encourage all of our displays to use language that is gender-inclusive and free of bias, in order to reach all visitors and members of the Wolfpack community. NC State's values include diversity, inclusion, and mutual respect; and it is important that this is reflected in all of our spaces. For tips on how you can incorporate universal design and social justice principles into your use of language, please visit this [Inclusive Language Guide](https://www.ucalgary.ca/odepd/files/odepd/inclusive-language-guide-june-13-2017.pdf) or these [Inclusive Language Guidelines](http://hrcouncil.ca/hr-toolkit/diversity-language-guidelines.cfm). When necessary, revisions to copy will be suggested.
+
 ##### **Get pre-approval of your idea**
 The video wall content program is selective: while we welcome participation from the entire campus, we need to ensure that the quality of content is high. It is preferable to schedule a meeting with us at Hunt before you begin work. Contact group-videowalls@ncsu.edu.
 
