@@ -4,13 +4,10 @@ Our four video walls make Hunt a storytelling building, integrating architecture
 
 To make video wall content requires familiarity with media production software and strong design skills. However, communicating your or your organization’s story or visualization in a bright new medium will be rewarding and fun. 
 
-**You are encouraged to contact us before you begin production work. All content submissions are subject to the editorial review of NCSU Libraries. Email library_visualization@ncsu.edu.**
+**You are encouraged to contact us before you begin production work. All content submissions are subject to the editorial review of NCSU Libraries. Email catonell@ncsu.edu.**
 
 Finally, once you’re ready to submit your content to us, go to [this form](https://goo.gl/forms/hhrQZQtlLSbcYjCk2) to tell us about it. Happy making! 
 
-Mike Nutt  
-Director of Visualization Services  
-NCSU Libraries
 
 # Art Wall
 <br/>![Art Wall above the Ask Us desk](https://raw.githubusercontent.com/NCSU-Libraries/visualization_templates/master/ArtWall_Rings_smaller.jpeg)<br/><br/>
