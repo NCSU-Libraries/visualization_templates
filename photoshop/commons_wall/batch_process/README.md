@@ -6,7 +6,7 @@
 
 This documentation will help you create imagery to display on the Hunt Library’s Commons Wall, the video wall visible from the third and fourth floors. Use this documentation in conjunction with the _Hunt Library Video Wall Guide_ at [http://lib.ncsu.edu/videowalls](http://lib.ncsu.edu/videowalls).
 
-The instructions below allow you to quickly prepare a single image or multiple images for the Commons Wall. This is just a starting place: we encourage you to be creative and try new things. However, please remember that all projects for the Commons Wall are subject to the editorial approval of NCSU Libraries. You are encouraged to contact us before you begin work on your project to discuss your vision: group-videowalls@ncsu.edu.
+The instructions below allow you to quickly prepare a single image or multiple images for the Commons Wall. This is just a starting place: we encourage you to be creative and try new things. However, please remember that all projects for the Commons Wall are subject to the editorial approval of NCSU Libraries. You are encouraged to contact us before you begin work on your project to discuss your vision:catonell@ncsu.edu.
 
 If you decide to create something different than what we have provided in the template, here are a few guidelines to keep in mind:
 
