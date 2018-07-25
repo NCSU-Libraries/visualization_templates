@@ -80,7 +80,7 @@ The MicroTiles array in the Game Lab on the third floor supports up to 40 simult
 Yes and no. We curate our content program to inspire all Hunt visitors, not just the people who come for specific events. If you can create visually striking content about your organization that communicates the story of its impact, that’s something that all our visitors could benefit from. Generally, we’re looking for contributions to our permanent content portfolio that can wow our visitors day after day. 
 
 ##### **Can you create content for me?**
-No. The Libraries does not have support staff dedicated to content production for the walls. However, we can offer advice on how to use our templates and we can point you to resources to learn digital media production. If you are interested in collaborating on sponsored research, please email group-videowalls@ncsu.edu.
+No. The Libraries does not have support staff dedicated to content production for the walls. However, we can offer advice on how to use our templates and we can point you to resources to learn digital media production. If you are interested in collaborating on sponsored research, please email catonell@ncsu.edu.
 
 ##### **What are these MicroTiles you speak of?**
 MicroTiles are produced by Christie, and are a modular display technology. You can learn more about creating content for MicroTiles with Christie’s very useful Content Production Guidelines found in the Producer’s Toolkit at lib.ncsu.edu/videowalls.
@@ -94,7 +94,7 @@ Engineering and Textiles students frequent Hunt (and, to a lesser degree, facult
 We encourage all of our displays to use language that is gender-inclusive and free of bias, in order to reach all visitors and members of the Wolfpack community. NC State's values include diversity, inclusion, and mutual respect; and it is important that this is reflected in all of our spaces. For tips on how you can incorporate universal design and social justice principles into your use of language, please visit this [Inclusive Language Guide](https://www.ucalgary.ca/odepd/files/odepd/inclusive-language-guide-june-13-2017.pdf) or these [Inclusive Language Guidelines](http://hrcouncil.ca/hr-toolkit/diversity-language-guidelines.cfm). When necessary, revisions to copy will be suggested.
 
 ##### **Get pre-approval of your idea**
-The video wall content program is selective: while we welcome participation from the entire campus, we need to ensure that the quality of content is high. It is preferable to schedule a meeting with us at Hunt before you begin work. Contact group-videowalls@ncsu.edu.
+The video wall content program is selective: while we welcome participation from the entire campus, we need to ensure that the quality of content is high. It is preferable to schedule a meeting with us at Hunt before you begin work. Contact catonell@ncsu.edu.
 
 ##### **Plan time for multiple drafts**
 We want your content to create memorable visitor experiences: if it can be improved, we will suggest revisions to your work. Please allow time to schedule at least one meeting with library taff to test your first draft (e.g., to do a basic visibility/readability test for the typeface you use).
