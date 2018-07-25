@@ -2,7 +2,7 @@
 ## MicroTiles Video Wall | Design Guide
 
 ### Introduction
-This documentation will help you create imagery to display in the Hunt Library’s Micro-Tiles video walls. This is just a starting place: we encourage you to be creative and try new things. However, please remember that all projects submitted for the video walls are subject to the editorial approval of NCSU Libraries. You are encouraged to contact us at group-videowalls@ncsu.edu before you begin working on your project, so that we can discuss your vision.
+This documentation will help you create imagery to display in the Hunt Library’s Micro-Tiles video walls. This is just a starting place: we encourage you to be creative and try new things. However, please remember that all projects submitted for the video walls are subject to the editorial approval of NCSU Libraries. You are encouraged to contact us at catonell@ncsu.edu before you begin working on your project, so that we can discuss your vision.
 
 This guide is designed to be used in conjunction with the Hunt Library Video Walls Guide, which can be found at http://lib.ncsu.edu/videowalls.
 
