@@ -9,38 +9,38 @@
 * AMD FirePro W9100 16GB video card
 
 ## Commons Wall
-* Dell Precision R5500
-* Intel Xeon X5650 @2.67 
-* 24 Gb RAM
+* Dell Precision T7920
+* Dual Intel Xeon Silver 4112 2.6GHz, 3.0GHz Turbo 
+* 32 Gb RAM
 * Nvidia K5000 video card
-* Windows 7 Enterprise x64
-* 512 Gb SSD Hd
+* Windows 10 Pro 64
+* 2 - 512 Gb SSD Hd
 
 ## Creativity Studio North
-* Dell Precision T7600 
-* 2x  Intel Xeon CPU E5-2630 @ 2.3 GHz
+* Dell Precision T7920 
+* 2x  Intel Xeon Silver 4112 2.6GHz, 3.0GHz Turbo
 * 32 Gb RAM
-* Windows 7 Enterprise x64
+* Windows 10 Pro 64
 * Nvidia K5000 video card
-* 256 Gb SSD Hd (sys)
-* 2 TB Hd
+* 512 Gb SSD Hd 
+* 1 TB SSD Hd
 
 ## Creativity Studio South
-* Dell Precision R5500
-* Intel Xeon X5650 @2.66 
-* 24 Gb RAM
+* Dell Precision T7920
+* Dual Intel Xeon Silver 4112 2.6GHz, 3.0GHz Turbo 
+* 32 Gb RAM
 * Nvidia K5000 video card
-* Windows 7 Enterprise x64
-* 512 Gb SSD Hd
+* Windows 10 Pro 64
+* 2 - 512 Gb SSD Hd
 
 ## Game Lab
-* Dell Precision T7600 
-* 2x  Intel Xeon CPU E5-2630 @ 2.3 GHz 
-* 64 Gb RAM
-* Windows 7 Enterprise SP1 x64
-* 2x Nvidia K5000 video card
-* 256 Gb SSD Hd (sys)
-* 2 TB Hd
+* Dell Precision T7910 
+* Dual Intel Xeon Processor E5-2680 v4 (14C, 2.4GHz, 3.3GHz Turbo
+* 128 Gb RAM
+* Windows 10 Pro 64
+* 2x Nvidia P5000 video card
+* 512 Gb SSD Hd (sys)
+* 1 TB SATA Hd
 
 ## iPearl Immersion Theater
 * Dell Precision Tower 7910 
