@@ -35,7 +35,7 @@
 
 ## Game Lab
 * Dell Precision T7910 
-* Dual Intel Xeon Processor E5-2680 v4 (14C, 2.4GHz, 3.3GHz Turbo
+* Dual Intel Xeon Processor E5-2680 v4 14C, 2.4GHz, 3.3GHz Turbo
 * 128 Gb RAM
 * Windows 10 Pro 64
 * 2x Nvidia P5000 video card
