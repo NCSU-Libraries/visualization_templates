@@ -12,7 +12,7 @@
 * Dell Precision T7920
 * Dual Intel Xeon Silver 4112 2.6GHz, 3.0GHz Turbo 
 * 32 Gb RAM
-* Nvidia K5000 video card
+* Nvidia M4000 video card
 * Windows 10 Pro 64
 * 2 - 512 Gb SSD Hd
 
@@ -21,7 +21,7 @@
 * 2x  Intel Xeon Silver 4112 2.6GHz, 3.0GHz Turbo
 * 32 Gb RAM
 * Windows 10 Pro 64
-* Nvidia K5000 video card
+* Nvidia M4000 video card
 * 512 Gb SSD Hd 
 * 1 TB SSD Hd
 
@@ -29,7 +29,7 @@
 * Dell Precision T7920
 * Dual Intel Xeon Silver 4112 2.6GHz, 3.0GHz Turbo 
 * 32 Gb RAM
-* Nvidia K5000 video card
+* Nvidia M4000 video card
 * Windows 10 Pro 64
 * 2 - 512 Gb SSD Hd
 
