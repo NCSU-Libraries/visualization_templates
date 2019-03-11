@@ -123,5 +123,5 @@ Include 4 seconds of black pre- and post-roll on all videos. It takes a few seco
 Compress your audio so that there are no volume spikes. Then normalize the audio to -.1db.
 
 Questions about anything?
-Email group-videowalls@ncsu.edu
+Email catonell@ncsu.edu
 http://lib.ncsu.edu/videowalls
