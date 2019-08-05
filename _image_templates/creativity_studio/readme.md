@@ -4,6 +4,6 @@
 
 **Technical Details**
 
-* North Wall: 3614W x 1080H pixels, 2 blended HD projectors
+* North Wall: 3840W x 1200H pixels, 2 blended HD projectors
 * South Wall: 1920W x 1080H pixels, 1 HD projector
 * Divider Wall: 1920W x 1080H pixels, 1 HD projector
