@@ -1,5 +1,5 @@
 # Game Lab Image Guide
 
-**Overview:** The Game Lab supports the scholarly study of digital games and is also a place to take a break and play for fun. It is equipped with multiple video gaming systems and a large Christie® MicroTile® display, which can be used as a single panorama or divided into multiple sections.
+**Overview:** The Game Lab supports the scholarly study of digital games, as well as providing flexible space for workshops, teaching, and interactive exploration of data. The room is equipped with multiple gaming systems and a 19.68ft x 4.43ft Leyard LED touch-interactive display, which can be used as a single panoramic screen or divided into up to three sections with varying inputs.
 
-**Technical Details:** 7328W x 1720H pixels, 20.3 x 5 feet, 16 x 5 tiles, 80 total tiles
+**Technical Details:** 4800W x 1080H pixels, 19.68 x 4.43 feet, Bezel-free direct view LED video wall
