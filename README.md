@@ -1,5 +1,7 @@
 # Visualization Space Templates
 
+**This branch contains outdated templates preserved for possible future need**
+
 There are four large video walls built into the public spaces around the Hunt Library, as well as three high-tech visualization labs and rooms. Additionally, the D. H. Hill Library has a Visualization Studio. These templates will help you design large-scale web content for these displays.
 
 The templates are organized by the platform with which you are producing your work, e.g., Photoshop, web, etc. Once you know your platform, you can find templates for individual walls and spaces within that folder. If you prefer not to use GitHub, you can also [download .zip folders of these templates here](https://www.lib.ncsu.edu/visualization-space-templates).
